@@ -113,10 +113,9 @@ Shell: zsh = <a href="https://github.com/ohmyzsh/ohmyzsh"> oh my zsh (alanpeabod
 3. Added Module Update
 4. Added Menu NetworkManager_dmenu
 5. Added Nottify Panel = dunst
-6. Added Lolcat in Neofetch
+6. Added Neofetch + Lolcat
 7. Added Cava Theme
 8. Added Htop Theme
-9. Added Neofetch + Lolcat
 
 # Notes
 
