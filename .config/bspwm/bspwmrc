@@ -4,7 +4,7 @@ dunst &
 sxhkd &
 compton &
 xrandr -s 1366x768 &
-#nitrogen --restore
+nitrogen --restore
 ~/.config/polybar/launch.sh
 synclient TapButton1=1 
 wmname compiz
@@ -13,7 +13,7 @@ sudo mount /dev/sda5 ~/temp/sda5
 sudo mount /dev/sda6 ~/temp/sda6
 
 
-feh --bg-fill "$home/moises/Imágenes/Wallpapers/mech-key.jpg"
+#feh --bg-fill "$home/moises/Imágenes/Wallpapers/mech-key.jpg"
 bspc config pointer_modifier mod1
 
 bspc monitor -d I II III IV V VI VII VIII IX X
