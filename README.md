@@ -13,7 +13,7 @@ Distro: Arch Linux
 
 WM: BSPWM
 
-Shell: zsh : oh my zsh (alanpeabody)
+Shell: zsh = <a href="https://github.com/ohmyzsh/ohmyzsh"> oh my zsh (alanpeabody)
 
 #### Theme
 
