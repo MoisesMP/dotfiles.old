@@ -15,6 +15,8 @@ WM: BSPWM
 
 Shell: zsh
 
+Gtk Theme = <a href="https://www.gnome-look.org/p/1357889/"><"Orchis-Dark">
+
 Used
 
 1. Transparency manager = Compton
