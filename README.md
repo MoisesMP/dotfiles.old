@@ -15,13 +15,13 @@ WM: BSPWM
 
 Shell: zsh : oh my zsh (alanpeabody)
 
-Gtk Theme = <a href="https://www.gnome-look.org/p/1357889/">Orchis<>
-<>
+Gtk Theme = <a href="https://www.gnome-look.org/p/1357889/">Orchis<br>
 
-Icon Theme = <a href="https://www.gnome-look.org/p/1270110/">Marwaita Icons<>
-<>
 
-Cursor Theme = <a href="https://www.gnome-look.org/p/1358330/">Vimix Cursors Theme<>
+Icon Theme = <a href="https://www.gnome-look.org/p/1270110/">Marwaita Icons<br>
+
+
+Cursor Theme = <a href="https://www.gnome-look.org/p/1358330/">Vimix Cursors Theme<br>
 
 
 # Used
