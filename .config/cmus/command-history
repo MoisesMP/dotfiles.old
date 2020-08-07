@@ -1,0 +1,25 @@
+add Música/
+clear
+fiter
+add Musica/
+add Musica/Skin/
+colorscheme green
+colorscheme cyan
+colorscheme zenburn
+colorscheme xterm-white
+colorscheme solarized-light
+colorscheme solarized-dark
+colorscheme night
+colorscheme jellybeans
+colorscheme gruvbox-alt
+colorscheme gruvbox
+colorscheme green-mono-88
+colorscheme gray-88
+colorscheme dracula
+colorscheme default
+add ~/Música/
+bind common <key> add0
+bind common <key> add  0
+bind common <key> add qq
+bind common <key> adda
+bind common <key> add a
