@@ -15,16 +15,16 @@ WM: BSPWM
 
 Shell: zsh : oh my zsh (alanpeabody)
 
-Gtk Theme = <a href="https://www.gnome-look.org/p/1357889/">Orchis ;
+Gtk Theme = <a href="https://www.gnome-look.org/p/1357889/">Orchis >
   
   
-Icon Theme = <a href="https://www.gnome-look.org/p/1270110/">Marwaita Icons ;
+Icon Theme = <a href="https://www.gnome-look.org/p/1270110/">Marwaita Icons >
   
   
-Cursor Theme = <a href="https://www.gnome-look.org/p/1358330/">Vimix Cursors Theme ;
+Cursor Theme = <a href="https://www.gnome-look.org/p/1358330/">Vimix Cursors Theme >
 
 
-Used
+# Used
 
 1. Transparency manager = Compton
 2. Resolution manager = Xrandr
