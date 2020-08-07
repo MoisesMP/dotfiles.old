@@ -1,4 +1,4 @@
-# dotfiles
+# Dotfiles
 My Linux settings
 
 #### BSPWM Configuration
