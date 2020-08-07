@@ -4,6 +4,7 @@ My Linux settings
 #### BSPWM Configuration
 
 ![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/DesktopB2.png)
+![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/nemo.png)
 
 #### Push Notifications
 ![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Nottify.png)
