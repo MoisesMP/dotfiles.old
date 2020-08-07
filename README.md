@@ -113,3 +113,5 @@ Used
 
 > ip addr
 
+###### note the name of the wifi network interface starts with wl
+
