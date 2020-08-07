@@ -12,16 +12,18 @@ Distro: Arch Linux
 
 WM: BSPWM
 
+Shell: zsh
+
 Used
 
 1. Transparency manager = Compton
 2. Resolution manager = Xrandr
-3. Wallpaper manager = nitrogen
+3. Wallpaper manager = nitrogen or feh
 4. Bar = polybar
 5. Menu = rofi
-6. File explorer = nemo
-7. Web navigator = firefox & chromium
-8. Terminal = tilix
+6. File explorer = nemo & thunar
+7. Web navigator =  chromium & firefox
+8. Terminal = tilix & gmome-terminal
 9. Settings control = gnome-control-center & lxappearance
 10. Bluetooth manager = blueberry
 11. Menu Network = networkManager_dmenu
@@ -57,14 +59,29 @@ Used
 
 > sudo cp -r * ~/.config/
 
-###### 8. Change to home dir
+###### 8. Go to dotfiles dir
+> cd ..
+
+###### 9. Copy .zshrc to user dir
+> cp -r .zshrc ~/
+
+###### or
+> sudo cp -r .zshrc ~/ 
+
+###### 10. Change to home dir
 > cd
 
-###### 9. Go to bspwm dir
+###### 11. Give execute permissions to the .zshrc file
+> chmod +x .zshrc
+
+###### or
+> sudo chmod +x .zshrc
+
+###### 12. Go to bspwm dir
 > cd ~/.config/bspwm/
 
 
-###### 10. Give execute permissions to the bspwmrc file
+###### 13. Give execute permissions to the bspwmrc file
 > chmod +x bspwmrc
 
 ###### or
@@ -82,3 +99,17 @@ Used
 4. Added Menu NetworkManager_dmenu
 5. Added Nottify Panel = dunst
 6. Added Lolcat in Neofetch
+7. Added Cava Theme
+8. Added Htop Theme
+9. Added Neofetch + Lolcat
+
+# Notes
+
+#### If you have an error with the wifi module, please change the network interface in
+
+> ~/config/polybar/control.ini
+
+###### To know the name of the network interface, type in the terminal
+
+> ip addr
+
