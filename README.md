@@ -76,4 +76,9 @@ Used
 
 # Changelogs
 
-![Changelogs](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Changelogs.txt)
+1. Added Module Storage 
+2. Added Module Title
+3. Added Module Update
+4. Added Menu NetworkManager_dmenu
+5. Added Nottify Panel = dunst
+6. Added Lolcat in Neofetch
