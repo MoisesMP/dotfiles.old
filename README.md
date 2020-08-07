@@ -1,10 +1,12 @@
 # dotfiles
 My Linux settings
 
-bspwm configuration
+#### BSPWM Configuration
 
-![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Desktop.png)
+![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/DesktopB2.png)
 
+#### Push Notifications
+![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Nottify.png)
 
 Distro: Arch Linux
 
@@ -22,7 +24,9 @@ Used
 8. Terminal = tilix
 9. Settings control = gnome-control-center & lxappearance
 10. Bluetooth manager = blueberry
-
+11. Menu Network = networkManager_dmenu
+12. Push Notifications = dunst
+13. Lolcat = lolcat
 
 # Installation
 
@@ -59,8 +63,17 @@ Used
 ###### 9. Go to bspwm dir
 > cd ~/.config/bspwm/
 
+
 ###### 10. Give execute permissions to the bspwmrc file
 > chmod +x bspwmrc
 
 ###### or
 > sudo chmod +x bspwmrc
+
+# Desktop Beta 1
+
+![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Desktop.png)
+
+# Changelogs
+
+![Changelogs](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Changelogs.txt)
