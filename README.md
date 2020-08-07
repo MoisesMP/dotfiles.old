@@ -53,6 +53,8 @@ Used
 
 ###### 7. Copy everything from .config  to .config dir (backup your config first if you have)
 > cd .config
+
+
 > cp -r * ~/.config/
 
 ###### or 
