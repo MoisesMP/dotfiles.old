@@ -108,6 +108,8 @@ Shell: zsh = <a href="https://github.com/ohmyzsh/ohmyzsh"> oh my zsh (alanpeabod
 
 # Changelogs
 
+Update 07/08/2020
+
 1. Added Module Storage 
 2. Added Module Title
 3. Added Module Update
