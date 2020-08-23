@@ -9,7 +9,7 @@ My Linux settings
 #### Push Notifications
 ###### Notify Normal
 ![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Notify-Normal.png)
-###### Notify-Urgency_Critical
+###### Notify Urgency Critical
 ![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Notify-Urgency_Critical.png)
 
 Distro: Arch Linux
@@ -32,7 +32,7 @@ Shell: zsh = <a href="https://github.com/ohmyzsh/ohmyzsh"> oh my zsh (alanpeabod
 
 # Used
 
-1. Compositor = Compton
+1. Compositor = Picom
 2. Resolution manager = Xrandr
 3. Wallpaper manager = nitrogen or feh
 4. Bar = polybar
