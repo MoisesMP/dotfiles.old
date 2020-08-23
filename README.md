@@ -29,7 +29,7 @@ Shell: zsh = <a href="https://github.com/ohmyzsh/ohmyzsh"> oh my zsh (alanpeabod
 
 # Used
 
-1. Transparency manager = Compton
+1. Compositor = Compton
 2. Resolution manager = Xrandr
 3. Wallpaper manager = nitrogen or feh
 4. Bar = polybar
