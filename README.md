@@ -3,11 +3,12 @@ My Linux settings
 
 #### BSPWM Configuration
 
-![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/DesktopB2.png)
+![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Desktop3.png)
 ![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/nemo.png)
 
 #### Push Notifications
-![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Nottify.png)
+![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Notify-Normal.png)
+![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Notify-Urgency_Critical.png)
 
 Distro: Arch Linux
 
@@ -105,6 +106,13 @@ Shell: zsh = <a href="https://github.com/ohmyzsh/ohmyzsh"> oh my zsh (alanpeabod
 # Desktop Beta 1
 
 ![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Desktop.png)
+
+# Desktop Beta 2
+
+![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/DesktopB2.png)
+
+#### Push Notifications 
+![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Nottify.png)
 
 # Changelogs
 
