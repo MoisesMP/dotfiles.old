@@ -9,3 +9,15 @@ Added Module Update
 Added Menu NetworkManager_dmenu
 Added Nottify Panel = dunst
 Added Lolcat in Neofetch
+
+
+Change neofetch to pfetch
+Added Dunst Theme 
+Upgrade Compositor Compton to Picom
+Use of Reduced Fonts
+Date Module Upgrade 
+Updated Theme Cava
+Added MPD Module
+
+
+
