@@ -110,14 +110,24 @@ Shell: zsh = <a href="https://github.com/ohmyzsh/ohmyzsh"> oh my zsh (alanpeabod
 
 Update 07/08/2020
 
-1. Added Module Storage 
-2. Added Module Title
-3. Added Module Update
+1. Added Storage Module 
+2. Added Title Module
+3. Added Update Module
 4. Added Menu NetworkManager_dmenu
 5. Added Nottify Panel = dunst
 6. Added Neofetch + Lolcat
 7. Added Cava Theme
 8. Added Htop Theme
+
+Update 23/08/2020
+
+1. Change neofetch to pfetch
+2. Added Dunst Theme
+3. Upgrade Compositor Compton to Picom
+4. Use of Reduced Fonts
+5. Date Module Upgrade 
+6. Updated Theme Cava
+7. Added MPD Module
 
 # Notes
 
