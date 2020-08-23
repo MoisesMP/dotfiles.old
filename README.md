@@ -7,7 +7,9 @@ My Linux settings
 ![Desktop BSPWM](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/nemo.png)
 
 #### Push Notifications
+###### Notify Normal
 ![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Notify-Normal.png)
+###### Notify-Urgency_Critical
 ![Notifications](https://raw.githubusercontent.com/MoisesMP/dotfiles/master/Notify-Urgency_Critical.png)
 
 Distro: Arch Linux
